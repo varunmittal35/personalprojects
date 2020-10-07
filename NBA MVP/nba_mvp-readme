@@ -1,1 +1,2 @@
-This project was made
+Of all the awards in the NBA, the MVP award is the most coveted. Being the "Most Valuable Player" is a sign of a player's standing in the league; this distinction often goes to the best player, and almost always goes to a top 5 player. While "most valuable" can mean different things to voters, coaches, and players, there are some distinct commonalities between all players in the history of the award.
+The goal of this analysis is to use machine learning to predict the MVP vote share of a player given their season stats. The model will be tested on a random subset of all seasons, as well as the current 2020 season.
